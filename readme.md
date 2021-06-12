@@ -1,0 +1,1 @@
+Decode a gif and render it in a web browser as a pixel by pixel svg
